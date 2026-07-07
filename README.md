@@ -1,6 +1,6 @@
 # Mechanistic Data Attribution (MDA) 
 
-This is a minimal reproduction of Mechanistic Data Attribution paper on a toy 2-layer attention-only transformer trained on a synthetic induction task. See the original paper [here.](https://arxiv.org/pdf/2601.21996)
+This is a minimal reproduction of the Mechanistic Data Attribution paper on a toy 2-layer attention-only transformer trained on a synthetic induction task. See the original paper [here.](https://arxiv.org/pdf/2601.21996)
 
 ## Layout
 
