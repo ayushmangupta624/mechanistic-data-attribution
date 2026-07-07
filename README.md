@@ -36,3 +36,5 @@ trained checkpoint):
 ```bash
 python scripts/run_mda.py
 ```
+
+<img width="590" height="490" alt="image" src="https://github.com/user-attachments/assets/ba6052e4-f971-4686-82f8-2a95e4187b20" />
