@@ -5,7 +5,7 @@ This is a minimal reproduction of Mechanistic Data Attribution paper on a toy 2-
 ## Layout
 
 ```
-mda_project/
+mechanistic_data_attribution/
 ├── config.py                    # shared constants (task, model, EK-FAC hyperparams)
 ├── data.py                      # generate_batch: synthetic [prefix, prefix] task
 ├── model.py                     # build_model: HookedTransformer builder
@@ -36,5 +36,7 @@ trained checkpoint):
 ```bash
 python scripts/run_mda.py
 ```
+
+Make sure to update paths as per your environment. 
 
 <img width="590" height="490" alt="image" src="https://github.com/user-attachments/assets/ba6052e4-f971-4686-82f8-2a95e4187b20" />
